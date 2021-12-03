@@ -1,6 +1,6 @@
 # Jogos Clássicos Parte 1: Iniciando no Javascript com Pong
 
-Curso da Alura sobre lógica de programação utiliando JavaScript e o Scratch
+Curso da Alura sobre lógica de programação utilizando JavaScript e o Scratch
 
 URL do curso -> [Jogos Clássicos Parte 1: Iniciando no Javascript com Pong](https://www.alura.com.br/curso-online-pong-javascript)
 ![Jogos Clássicos Parte 1: Iniciando no Javascript com Pong](https://www.alura.com.br/assets/api/share/curso-pong-javascript.png)
